@@ -68,11 +68,7 @@ What makes this application unique is its **animated, multi-chunk QR code system
 ### Installation & Setup
 
 1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/1anuragsingh/smart-attendance-app.git](https://github.com/1anuragsingh/smart-attendance-app.git)
-    cd smart-attendance-app
-    ```
-
+   
 2.  **Install dependencies:**
     ```bash
     npm install
